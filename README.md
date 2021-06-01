@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Marlin Shah
+
+![Visitor Count](https://profile-counter.glitch.me/{Mmarlin}/count.svg)
 
 <!--
 **Mmarlin/Mmarlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
